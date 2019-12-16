@@ -15,5 +15,8 @@ function holidayCountdown(days, holiday) {
     return `It's ${days} days until ${holiday}!`;
 };
 
+function happyHolidays();
+function happyHolidaysTo('Anna');
+function happyHolidayTo('Christmas', 'Chris');
 function holidayCountdown(120, 'Father\'s Day');
 function holidayCountdown(20, 'Mother\'s Day');
